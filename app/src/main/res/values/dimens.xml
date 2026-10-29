@@ -1,0 +1,9 @@
+
+<resources>
+    <dimen name="kenar_bosluk">16dp</dimen>
+    <dimen name="kart_bosluk">16dp</dimen>
+    <dimen name="resim_yukseklik">150dp</dimen>
+    <dimen name="yazi_boyutu">16sp</dimen>
+    <dimen name="baslik_boyutu">20sp</dimen>
+    <dimen name="kart_kose">4dp</dimen>
+</resources>
